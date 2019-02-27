@@ -17,8 +17,8 @@ We can access all functions of our contract
 ![image](https://user-images.githubusercontent.com/16362957/53518787-c6e8f600-3af7-11e9-9ecf-ac56a8e681b9.png)
 
 # Dependencies
-Python 3
-Flask
-Solidity
-Ganache
-EtherWallet
+Python 3,
+Flask,
+Solidity,
+Ganache,
+EtherWallet.
