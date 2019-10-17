@@ -22,3 +22,12 @@ Flask,
 Solidity,
 Ganache,
 EtherWallet.
+
+# My Original Contribution & Learnings
+
+Contribution =>
+None, reimplemented this by taking reference from various online articles and educational video.
+
+Major Learnings => 
+Learnt how blockchain works by building a flask application which builds basic block chain functionality creating block, implementing proof of work, checking for valid chain etc.
+Learnt how to build smart contract in solidity where user can exchange usd for tokens as happens in ico.
